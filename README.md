@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Berrymouse0
-- 👀 I’m interested in AI about Nature Language part.
 - I know a little bit of Blender and Unity. Because I learned them with Udemy. \
 - But I am not learning now because of the College major, Computer Science.
 - So I want to focus on learning program languages like Python, Java, C, etc... at least for now.
